@@ -1,0 +1,17 @@
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 250300
+Description: mycompany-myproduct
+DisplayName: Test_Package
+Filename: https://github.com/Jhingoor/Test/raw/refs/heads/main/test_1.0.0.0_windows_x64.nipkg
+MD5sum: 44e78186812e5043eee80320e7df9eb4
+Maintainer: MyCompany <email@mycompany.com>
+Package: test
+Plugin: file
+Section: Application Software
+Size: 560
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.0
+VisibleForRuntimeDeployment: no
+
